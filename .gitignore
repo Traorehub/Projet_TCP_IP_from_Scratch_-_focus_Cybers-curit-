@@ -1,0 +1,22 @@
+# Depôt public
+# A pousser : Jour01..JourNN, README.md, docs/readme/ (images du README uniquement).
+
+# Dump d'extraction PDF (local, trop gros, pas pour GitHub)
+docs/captures/
+
+# Ancienne copie unique (code vivant = Jour11_Chemin_Sortie)
+stack/
+
+# Build
+*.o
+tcpstack
+arp_stack
+.DS_Store
+Thumbs.db
+
+# Notes et scripts locaux
+PROGRAM.md
+scripts/
+
+# Cursor (regles locales)
+.cursor/
